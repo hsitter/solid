@@ -1,0 +1,34 @@
+commit ccb3957557a08ada605ee6de5a359d8e4d282aa7
+Author: Jonathan Riddell <jr@jriddell.org>
+Date:   Wed Jan 29 15:46:21 2014 +0000
+
+    Rename dbus interface files to prevent clash with kdelibs4 equivalent.
+    Dbus interface names remain the same.
+    REVIEW:114927
+
+diff --git a/src/solid/CMakeLists.txt b/src/solid/CMakeLists.txt
+index 84c254e..b23aa6c 100644
+--- a/src/solid/CMakeLists.txt
++++ b/src/solid/CMakeLists.txt
+@@ -509,10 +509,17 @@ install(DIRECTORY ${CMAKE_CURRENT_BINARY_DIR}/Solid DESTINATION ${INCLUDE_INSTAL
+ install(TARGETS KF5Solid EXPORT KF5SolidTargets ${INSTALL_TARGETS_DEFAULT_ARGS})
+ 
+ install(FILES org.kde.Solid.Networking.Client.xml
+-              org.kde.Solid.PowerManagement.PolicyAgent.xml
+-              org.freedesktop.PowerManagement.xml
+-              org.freedesktop.PowerManagement.Inhibit.xml
+-        DESTINATION ${DBUS_INTERFACES_INSTALL_DIR})
++        DESTINATION ${DBUS_INTERFACES_INSTALL_DIR}
++        RENAME kf5_org.kde.Solid.Networking.Client.xml)
++install(FILES org.kde.Solid.PowerManagement.PolicyAgent.xml
++        DESTINATION ${DBUS_INTERFACES_INSTALL_DIR}
++        RENAME kf5_org.kde.Solid.PowerManagement.PolicyAgent.xml)
++install(FILES org.freedesktop.PowerManagement.xml
++        DESTINATION ${DBUS_INTERFACES_INSTALL_DIR}
++        RENAME kf5_org.freedesktop.PowerManagement.xml)
++install(FILES org.freedesktop.PowerManagement.Inhibit.xml
++        DESTINATION ${DBUS_INTERFACES_INSTALL_DIR}
++        RENAME kf5_org.freedesktop.PowerManagement.Inhibit.xml)
+ 
+ ########### static lib for tests  ###############
+ 

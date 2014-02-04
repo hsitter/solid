@@ -1,0 +1,5 @@
+solid (4.95.0-0ubuntu1) trusty; urgency=low
+
+  * Initial tech preview release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 07 Jan 2014 11:35:49 +0000

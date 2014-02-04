@@ -1,0 +1,7 @@
+usr/include/KF5/*
+usr/lib/*/libKF5Solid.so
+usr/lib/*/cmake/KF5Solid/
+usr/share/dbus-1/interfaces/kf5_org.freedesktop.PowerManagement.Inhibit.xml
+usr/share/dbus-1/interfaces/kf5_org.kde.Solid.Networking.Client.xml
+usr/share/dbus-1/interfaces/kf5_org.kde.Solid.PowerManagement.PolicyAgent.xml
+usr/share/dbus-1/interfaces/kf5_org.freedesktop.PowerManagement.xml
