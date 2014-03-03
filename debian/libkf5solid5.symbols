@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5Solid.so.4 libkf5solid4 #MINVER#
+libKF5Solid.so.5 libkf5solid5 #MINVER#
  PredicateParse_initLexer@Base 4.96.0
  PredicateParse_mainParse@Base 4.96.0
  PredicateParse_putString@Base 4.96.0
