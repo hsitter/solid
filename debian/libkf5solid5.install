@@ -1,3 +1,4 @@
 usr/lib/*/libKF5Solid.so.4*
 usr/lib/*/qml/org/kde/solid/qmldir
 usr/lib/*/qml/org/kde/solid/libsolidextensionplugin.so
+usr/lib/*/libKF5Solid.so.5
