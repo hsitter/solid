@@ -12,7 +12,7 @@ Homepage: https://projects.kde.org/projects/frameworks/solid
 Package: libkf5solid-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5solid4 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5solid5 (= ${binary:Version}), ${misc:Depends}
 Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
@@ -21,7 +21,7 @@ Description: Qt library to query and control hardware
  .
  This package contains the development files.
 
-Package: libkf5solid4
+Package: libkf5solid5
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
@@ -33,12 +33,12 @@ Description: Qt library to query and control hardware
  .
  This package is part of KDE Frameworks 5.
 
-Package: libkf5solid4-dbg
+Package: libkf5solid5-dbg
 Priority: extra
 Section: debug
 Architecture: any
 Multi-Arch: same
-Depends: libkf5solid4 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5solid5 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for libsolid
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
