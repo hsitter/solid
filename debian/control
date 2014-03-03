@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
 Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
- extra-cmake-modules (>= 0.0.10), qtbase5-dev, qtdeclarative5-dev, flex, bison,
+ extra-cmake-modules (>= 0.0.11), qtbase5-dev, qtdeclarative5-dev, flex, bison,
  libhupnp-dev, libudev-dev [linux-any]
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/solid
