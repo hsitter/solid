@@ -33,7 +33,7 @@ Description: Qt library to query and control hardware
  .
  This package is part of KDE Frameworks 5.
 
-Package: qtdeclarative5-kf5solid5.0
+Package: qtdeclarative5-kf5solid-5.0
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}

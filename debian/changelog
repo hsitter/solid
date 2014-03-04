@@ -7,6 +7,7 @@ solid (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Scarlett Clark ]
    -Added qtdeclarative5-kf5solid5.0 to hold libsolidextensionplugin.so. 
    - Created new symbols
+   - Adjust qtdelclarative5-kf5solid5.0 control entry to add - before version.
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 03 Mar 2014 12:40:52 +0000
 
