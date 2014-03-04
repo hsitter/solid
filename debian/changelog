@@ -5,9 +5,8 @@ solid (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
   * Rename library package for soname 5
 
   [ Scarlett Clark ]
-   -Added qtdeclarative5-kf5solid5.0 to hold libsolidextensionplugin.so. 
-   - Created new symbols
-   - Adjust qtdelclarative5-kf5solid5.0 control entry to add - before version.
+  * Added qtdeclarative5-kf5solid-5.0 to hold libsolidextensionplugin.so.
+  * Created new symbols
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 03 Mar 2014 12:40:52 +0000
 
@@ -15,10 +14,10 @@ solid (4.96.0-0ubuntu1) trusty; urgency=medium
 
   [ Rohan Garg ]
   * New upstream alpha release
-    - Drop rename_dbus.diff, upstreamed 
+    - Drop rename_dbus.diff, upstreamed
 
   [ Scarlett Clark ]
-  * libs changed to 4.x renamed files/entries. 
+  * libs changed to 4.x renamed files/entries.
 
  -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 11 Feb 2014 18:39:54 +0100
 
