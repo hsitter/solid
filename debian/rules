@@ -1,8 +1,7 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-%:
-	dh $@ --parallel --with pkgkde_symbolshelper
+include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
 override_dh_strip:
 	dh_strip --dbg-package=libkf5solid5-dbg
