@@ -5,3 +5,4 @@ usr/share/dbus-1/interfaces/kf5_org.freedesktop.PowerManagement.Inhibit.xml
 usr/share/dbus-1/interfaces/kf5_org.kde.Solid.Networking.Client.xml
 usr/share/dbus-1/interfaces/kf5_org.kde.Solid.PowerManagement.PolicyAgent.xml
 usr/share/dbus-1/interfaces/kf5_org.freedesktop.PowerManagement.xml
+usr/share/qt5/mkspecs/modules/qt_Solid.pri
