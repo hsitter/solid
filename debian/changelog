@@ -1,4 +1,4 @@
-solid (4.97.0-0ubuntu1) UNRELEASED; urgency=medium
+solid (4.97.0-0ubuntu1) trusty; urgency=medium
 
   [ Jonathan Riddell ]
   * New upstream alpha release
