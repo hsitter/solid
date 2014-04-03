@@ -1,6 +1,10 @@
 solid (4.98.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Jonathan Riddell ]
   * New upstream beta release
+
+  [ Scarlett Clark ]
+  * Applied upstream solid-hardware5 patch. 
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 29 Mar 2014 11:04:27 +0000
 

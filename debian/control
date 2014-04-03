@@ -27,6 +27,17 @@ Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Suggests: media-player-info [linux-any]
+Recommends: solid-bin (= ${binary:Version})
+Description: Qt library to query and control hardware
+ Solid is a device integration framework. It provides a way of querying and
+ interacting with hardware independently of the underlying operating system.
+ .
+ This package is part of KDE Frameworks 5.
+
+Package: solid-bin
+Architecture: any
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
