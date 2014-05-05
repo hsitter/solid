@@ -1,3 +1,9 @@
+solid (4.99.0-0ubuntu1) trusty; urgency=medium
+
+  * Beta 2 release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 05 May 2014 13:46:01 +0100
+
 solid (4.98.0-0ubuntu1) trusty; urgency=medium
 
   [ Jonathan Riddell ]
