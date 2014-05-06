@@ -5,7 +5,8 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
 Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
  extra-cmake-modules (>= 0.0.13), qtbase5-dev, qtdeclarative5-dev, flex, bison,
- libhupnp-dev, libudev-dev [linux-any]
+ libhupnp-dev, libudev-dev [linux-any],
+ qttools5-dev, qttools5-dev-tools, qt5-default
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/solid
 
@@ -25,6 +26,19 @@ Package: libkf5solid5
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, libkf5solid5-data (= ${binary:Version})
+Suggests: media-player-info [linux-any]
+Recommends: solid-bin (= ${binary:Version})
+Description: Qt library to query and control hardware
+ Solid is a device integration framework. It provides a way of querying and
+ interacting with hardware independently of the underlying operating system.
+ .
+ Solid is part of KDE Frameworks 5.
+
+Package: libkf5solid5-data
+Architecture: any
+Multi-Arch: same
+Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Suggests: media-player-info [linux-any]
 Recommends: solid-bin (= ${binary:Version})
@@ -32,7 +46,9 @@ Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
  .
- This package is part of KDE Frameworks 5.
+ Solid is part of KDE Frameworks 5.
+ .
+ This package contains the translations.
 
 Package: solid-bin
 Architecture: any
@@ -42,7 +58,9 @@ Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
  .
- This package is part of KDE Frameworks 5.
+ Solid is part of KDE Frameworks 5.
+ .
+ This package contains the solid-hardware5 tool.
 
 Package: qtdeclarative5-kf5solid-5.0
 Architecture: any
