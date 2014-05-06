@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.97.0 amd64
+# SymbolsHelper-Confirmed: 4.99.0 amd64
 libKF5Solid.so.5 libkf5solid5 #MINVER#
  PredicateParse_initLexer@Base 4.97.0
  PredicateParse_mainParse@Base 4.97.0
@@ -40,23 +40,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  Solidset_lval@Base 4.97.0
  Solidset_out@Base 4.97.0
  Solidwrap@Base 4.97.0
- _ZN5Solid10Networking13connectPolicyEv@Base 4.97.0
- _ZN5Solid10Networking16disconnectPolicyEv@Base 4.97.0
- _ZN5Solid10Networking16setConnectPolicyENS0_16ManagementPolicyE@Base 4.97.0
- _ZN5Solid10Networking19setDisconnectPolicyENS0_16ManagementPolicyE@Base 4.97.0
- _ZN5Solid10Networking6statusEv@Base 4.97.0
- _ZN5Solid10Networking8Notifier11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid10Networking8Notifier11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid10Networking8Notifier13shouldConnectEv@Base 4.97.0
- _ZN5Solid10Networking8Notifier13statusChangedENS0_6StatusE@Base 4.97.0
- _ZN5Solid10Networking8Notifier16shouldDisconnectEv@Base 4.97.0
- _ZN5Solid10Networking8Notifier16staticMetaObjectE@Base 4.97.0
- _ZN5Solid10Networking8NotifierC1Ev@Base 4.97.0
- _ZN5Solid10Networking8NotifierC2Ev@Base 4.97.0
- _ZN5Solid10Networking8NotifierD0Ev@Base 4.97.0
- _ZN5Solid10Networking8NotifierD1Ev@Base 4.97.0
- _ZN5Solid10Networking8NotifierD2Ev@Base 4.97.0
- _ZN5Solid10Networking8notifierEv@Base 4.97.0
  _ZN5Solid11OpticalDisc11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid11OpticalDisc11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid11OpticalDisc16staticMetaObjectE@Base 4.97.0
@@ -65,14 +48,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid11OpticalDiscD0Ev@Base 4.97.0
  _ZN5Solid11OpticalDiscD1Ev@Base 4.97.0
  _ZN5Solid11OpticalDiscD2Ev@Base 4.97.0
- _ZN5Solid12DvbInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid12DvbInterface11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid12DvbInterface16staticMetaObjectE@Base 4.97.0
- _ZN5Solid12DvbInterfaceC1EP7QObject@Base 4.97.0
- _ZN5Solid12DvbInterfaceC2EP7QObject@Base 4.97.0
- _ZN5Solid12DvbInterfaceD0Ev@Base 4.97.0
- _ZN5Solid12DvbInterfaceD1Ev@Base 4.97.0
- _ZN5Solid12DvbInterfaceD2Ev@Base 4.97.0
  _ZN5Solid12NetworkShare11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid12NetworkShare11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid12NetworkShare16staticMetaObjectE@Base 4.97.0
@@ -130,14 +105,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid13StorageVolumeD0Ev@Base 4.97.0
  _ZN5Solid13StorageVolumeD1Ev@Base 4.97.0
  _ZN5Solid13StorageVolumeD2Ev@Base 4.97.0
- _ZN5Solid14AudioInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid14AudioInterface11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid14AudioInterface16staticMetaObjectE@Base 4.97.0
- _ZN5Solid14AudioInterfaceC1EP7QObject@Base 4.97.0
- _ZN5Solid14AudioInterfaceC2EP7QObject@Base 4.97.0
- _ZN5Solid14AudioInterfaceD0Ev@Base 4.97.0
- _ZN5Solid14AudioInterfaceD1Ev@Base 4.97.0
- _ZN5Solid14AudioInterfaceD2Ev@Base 4.97.0
  _ZN5Solid14DeviceNotifier11deviceAddedERK7QString@Base 4.97.0
  _ZN5Solid14DeviceNotifier11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid14DeviceNotifier11qt_metacastEPKc@Base 4.97.0
@@ -147,14 +114,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid14DeviceNotifierD0Ev@Base 4.97.0
  _ZN5Solid14DeviceNotifierD1Ev@Base 4.97.0
  _ZN5Solid14DeviceNotifierD2Ev@Base 4.97.0
- _ZN5Solid14PointingDevice11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid14PointingDevice11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid14PointingDevice16staticMetaObjectE@Base 4.97.0
- _ZN5Solid14PointingDeviceC1EP7QObject@Base 4.97.0
- _ZN5Solid14PointingDeviceC2EP7QObject@Base 4.97.0
- _ZN5Solid14PointingDeviceD0Ev@Base 4.97.0
- _ZN5Solid14PointingDeviceD1Ev@Base 4.97.0
- _ZN5Solid14PointingDeviceD2Ev@Base 4.97.0
  _ZN5Solid15DeviceInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid15DeviceInterface11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid15DeviceInterface12stringToTypeERK7QString@Base 4.97.0
@@ -166,57 +125,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid15DeviceInterfaceD0Ev@Base 4.97.0
  _ZN5Solid15DeviceInterfaceD1Ev@Base 4.97.0
  _ZN5Solid15DeviceInterfaceD2Ev@Base 4.97.0
- _ZN5Solid15InternetGateway11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid15InternetGateway11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid15InternetGateway14addPortMappingERK7QStringsRKNS0_15NetworkProtocolEsS3_@Base 4.97.0
- _ZN5Solid15InternetGateway16portMappingAddedERK7QStringsRKNS0_15NetworkProtocolEsS3_@Base 4.97.0
- _ZN5Solid15InternetGateway16staticMetaObjectE@Base 4.97.0
- _ZN5Solid15InternetGateway17deletePortMappingERK7QStringsRKNS0_15NetworkProtocolE@Base 4.97.0
- _ZN5Solid15InternetGateway18enabledForInternetEb@Base 4.97.0
- _ZN5Solid15InternetGateway18portMappingDeletedERK7QStringsRKNS0_15NetworkProtocolE@Base 4.97.0
- _ZN5Solid15InternetGateway21setEnabledForInternetEb@Base 4.97.0
- _ZN5Solid15InternetGateway29currentConnectionsDataIsReadyE11QStringList@Base 4.97.0
- _ZN5Solid15InternetGatewayC1EP7QObject@Base 4.97.0
- _ZN5Solid15InternetGatewayC1ERNS_22InternetGatewayPrivateEP7QObject@Base 4.97.0
- _ZN5Solid15InternetGatewayC2EP7QObject@Base 4.97.0
- _ZN5Solid15InternetGatewayC2ERNS_22InternetGatewayPrivateEP7QObject@Base 4.97.0
- _ZN5Solid15InternetGatewayD0Ev@Base 4.97.0
- _ZN5Solid15InternetGatewayD1Ev@Base 4.97.0
- _ZN5Solid15InternetGatewayD2Ev@Base 4.97.0
- _ZN5Solid15PowerManagement12requestSleepENS0_10SleepStateEP7QObjectPKc@Base 4.97.0
- _ZN5Solid15PowerManagement20stopSuppressingSleepEi@Base 4.97.0
- _ZN5Solid15PowerManagement20supportedSleepStatesEv@Base 4.97.0
- _ZN5Solid15PowerManagement21beginSuppressingSleepERK7QString@Base 4.97.0
- _ZN5Solid15PowerManagement26appShouldConserveResourcesEv@Base 4.97.0
- _ZN5Solid15PowerManagement36stopSuppressingScreenPowerManagementEi@Base 4.97.0
- _ZN5Solid15PowerManagement37beginSuppressingScreenPowerManagementERK7QString@Base 4.97.0
- _ZN5Solid15PowerManagement8Notifier11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid15PowerManagement8Notifier11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid15PowerManagement8Notifier16staticMetaObjectE@Base 4.97.0
- _ZN5Solid15PowerManagement8Notifier19resumingFromSuspendEv@Base 4.97.0
- _ZN5Solid15PowerManagement8Notifier33appShouldConserveResourcesChangedEb@Base 4.97.0
- _ZN5Solid15PowerManagement8NotifierC1Ev@Base 4.97.0
- _ZN5Solid15PowerManagement8NotifierC2Ev@Base 4.97.0
- _ZN5Solid15PowerManagement8NotifierD0Ev@Base 4.97.0
- _ZN5Solid15PowerManagement8NotifierD1Ev@Base 4.97.0
- _ZN5Solid15PowerManagement8NotifierD2Ev@Base 4.97.0
- _ZN5Solid15PowerManagement8notifierEv@Base 4.97.0
- _ZN5Solid15SerialInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid15SerialInterface11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid15SerialInterface16staticMetaObjectE@Base 4.97.0
- _ZN5Solid15SerialInterfaceC1EP7QObject@Base 4.97.0
- _ZN5Solid15SerialInterfaceC2EP7QObject@Base 4.97.0
- _ZN5Solid15SerialInterfaceD0Ev@Base 4.97.0
- _ZN5Solid15SerialInterfaceD1Ev@Base 4.97.0
- _ZN5Solid15SerialInterfaceD2Ev@Base 4.97.0
- _ZN5Solid15SmartCardReader11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid15SmartCardReader11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid15SmartCardReader16staticMetaObjectE@Base 4.97.0
- _ZN5Solid15SmartCardReaderC1EP7QObject@Base 4.97.0
- _ZN5Solid15SmartCardReaderC2EP7QObject@Base 4.97.0
- _ZN5Solid15SmartCardReaderD0Ev@Base 4.97.0
- _ZN5Solid15SmartCardReaderD1Ev@Base 4.97.0
- _ZN5Solid15SmartCardReaderD2Ev@Base 4.97.0
  _ZN5Solid16GenericInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid16GenericInterface11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid16GenericInterface15conditionRaisedERK7QStringS3_@Base 4.97.0
@@ -227,14 +135,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid16GenericInterfaceD0Ev@Base 4.97.0
  _ZN5Solid16GenericInterfaceD1Ev@Base 4.97.0
  _ZN5Solid16GenericInterfaceD2Ev@Base 4.97.0
- _ZN5Solid16NetworkInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid16NetworkInterface11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid16NetworkInterface16staticMetaObjectE@Base 4.97.0
- _ZN5Solid16NetworkInterfaceC1EP7QObject@Base 4.97.0
- _ZN5Solid16NetworkInterfaceC2EP7QObject@Base 4.97.0
- _ZN5Solid16NetworkInterfaceD0Ev@Base 4.97.0
- _ZN5Solid16NetworkInterfaceD1Ev@Base 4.97.0
- _ZN5Solid16NetworkInterfaceD2Ev@Base 4.97.0
  _ZN5Solid19PortableMediaPlayer11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid19PortableMediaPlayer11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid19PortableMediaPlayer16staticMetaObjectE@Base 4.97.0
@@ -251,23 +151,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid5BlockD0Ev@Base 4.97.0
  _ZN5Solid5BlockD1Ev@Base 4.97.0
  _ZN5Solid5BlockD2Ev@Base 4.97.0
- _ZN5Solid5Video11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid5Video11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid5Video16staticMetaObjectE@Base 4.97.0
- _ZN5Solid5VideoC1EP7QObject@Base 4.97.0
- _ZN5Solid5VideoC2EP7QObject@Base 4.97.0
- _ZN5Solid5VideoD0Ev@Base 4.97.0
- _ZN5Solid5VideoD1Ev@Base 4.97.0
- _ZN5Solid5VideoD2Ev@Base 4.97.0
- _ZN5Solid6Button11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid6Button11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid6Button16staticMetaObjectE@Base 4.97.0
- _ZN5Solid6Button7pressedENS0_10ButtonTypeERK7QString@Base 4.97.0
- _ZN5Solid6ButtonC1EP7QObject@Base 4.97.0
- _ZN5Solid6ButtonC2EP7QObject@Base 4.97.0
- _ZN5Solid6ButtonD0Ev@Base 4.97.0
- _ZN5Solid6ButtonD1Ev@Base 4.97.0
- _ZN5Solid6ButtonD2Ev@Base 4.97.0
  _ZN5Solid6Camera11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
  _ZN5Solid6Camera11qt_metacastEPKc@Base 4.97.0
  _ZN5Solid6Camera16staticMetaObjectE@Base 4.97.0
@@ -303,23 +186,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid7BatteryD0Ev@Base 4.97.0
  _ZN5Solid7BatteryD1Ev@Base 4.97.0
  _ZN5Solid7BatteryD2Ev@Base 4.97.0
- _ZN5Solid8Keyboard11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid8Keyboard11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid8Keyboard16staticMetaObjectE@Base 4.97.0
- _ZN5Solid8KeyboardC1EP7QObject@Base 4.97.0
- _ZN5Solid8KeyboardC2EP7QObject@Base 4.97.0
- _ZN5Solid8KeyboardD0Ev@Base 4.97.0
- _ZN5Solid8KeyboardD1Ev@Base 4.97.0
- _ZN5Solid8KeyboardD2Ev@Base 4.97.0
- _ZN5Solid9AcAdapter11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.97.0
- _ZN5Solid9AcAdapter11qt_metacastEPKc@Base 4.97.0
- _ZN5Solid9AcAdapter16plugStateChangedEbRK7QString@Base 4.97.0
- _ZN5Solid9AcAdapter16staticMetaObjectE@Base 4.97.0
- _ZN5Solid9AcAdapterC1EP7QObject@Base 4.97.0
- _ZN5Solid9AcAdapterC2EP7QObject@Base 4.97.0
- _ZN5Solid9AcAdapterD0Ev@Base 4.97.0
- _ZN5Solid9AcAdapterD1Ev@Base 4.97.0
- _ZN5Solid9AcAdapterD2Ev@Base 4.97.0
  _ZN5Solid9Predicate10fromStringERK7QString@Base 4.97.0
  _ZN5Solid9PredicateC1ERK7QString@Base 4.97.0
  _ZN5Solid9PredicateC1ERK7QStringS3_RK8QVariantNS0_18ComparisonOperatorE@Base 4.97.0
@@ -348,7 +214,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZN5Solid9ProcessorD0Ev@Base 4.97.0
  _ZN5Solid9ProcessorD1Ev@Base 4.97.0
  _ZN5Solid9ProcessorD2Ev@Base 4.97.0
- _ZNK5Solid10Networking8Notifier10metaObjectEv@Base 4.97.0
  _ZNK5Solid11OpticalDisc10metaObjectEv@Base 4.97.0
  _ZNK5Solid11OpticalDisc12isAppendableEv@Base 4.97.0
  _ZNK5Solid11OpticalDisc12isRewritableEv@Base 4.97.0
@@ -356,11 +221,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZNK5Solid11OpticalDisc7isBlankEv@Base 4.97.0
  _ZNK5Solid11OpticalDisc8capacityEv@Base 4.97.0
  _ZNK5Solid11OpticalDisc8discTypeEv@Base 4.97.0
- _ZNK5Solid12DvbInterface10deviceTypeEv@Base 4.97.0
- _ZNK5Solid12DvbInterface10metaObjectEv@Base 4.97.0
- _ZNK5Solid12DvbInterface11deviceIndexEv@Base 4.97.0
- _ZNK5Solid12DvbInterface13deviceAdapterEv@Base 4.97.0
- _ZNK5Solid12DvbInterface6deviceEv@Base 4.97.0
  _ZNK5Solid12NetworkShare10metaObjectEv@Base 4.97.0
  _ZNK5Solid12NetworkShare3urlEv@Base 4.97.0
  _ZNK5Solid12NetworkShare4typeEv@Base 4.97.0
@@ -388,37 +248,13 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZNK5Solid13StorageVolume5usageEv@Base 4.97.0
  _ZNK5Solid13StorageVolume6fsTypeEv@Base 4.97.0
  _ZNK5Solid13StorageVolume9isIgnoredEv@Base 4.97.0
- _ZNK5Solid14AudioInterface10deviceTypeEv@Base 4.97.0
- _ZNK5Solid14AudioInterface10metaObjectEv@Base 4.97.0
- _ZNK5Solid14AudioInterface12driverHandleEv@Base 4.97.0
- _ZNK5Solid14AudioInterface13soundcardTypeEv@Base 4.97.0
- _ZNK5Solid14AudioInterface4nameEv@Base 4.97.0
- _ZNK5Solid14AudioInterface6driverEv@Base 4.97.0
  _ZNK5Solid14DeviceNotifier10metaObjectEv@Base 4.97.0
- _ZNK5Solid14PointingDevice10metaObjectEv@Base 4.97.0
- _ZNK5Solid14PointingDevice4typeEv@Base 4.97.0
  _ZNK5Solid15DeviceInterface10metaObjectEv@Base 4.97.0
  _ZNK5Solid15DeviceInterface7isValidEv@Base 4.97.0
- _ZNK5Solid15InternetGateway10metaObjectEv@Base 4.97.0
- _ZNK5Solid15InternetGateway18currentConnectionsEv@Base 4.97.0
- _ZNK5Solid15InternetGateway20isEnabledForInternetEv@Base 4.97.0
- _ZNK5Solid15InternetGateway25requestCurrentConnectionsEv@Base 4.97.0
- _ZNK5Solid15PowerManagement8Notifier10metaObjectEv@Base 4.97.0
- _ZNK5Solid15SerialInterface10metaObjectEv@Base 4.97.0
- _ZNK5Solid15SerialInterface10serialTypeEv@Base 4.97.0
- _ZNK5Solid15SerialInterface12driverHandleEv@Base 4.97.0
- _ZNK5Solid15SerialInterface4portEv@Base 4.97.0
- _ZNK5Solid15SmartCardReader10metaObjectEv@Base 4.97.0
- _ZNK5Solid15SmartCardReader10readerTypeEv@Base 4.97.0
  _ZNK5Solid16GenericInterface10metaObjectEv@Base 4.97.0
  _ZNK5Solid16GenericInterface13allPropertiesEv@Base 4.97.0
  _ZNK5Solid16GenericInterface14propertyExistsERK7QString@Base 4.97.0
  _ZNK5Solid16GenericInterface8propertyERK7QString@Base 4.97.0
- _ZNK5Solid16NetworkInterface10isWirelessEv@Base 4.97.0
- _ZNK5Solid16NetworkInterface10macAddressEv@Base 4.97.0
- _ZNK5Solid16NetworkInterface10metaObjectEv@Base 4.97.0
- _ZNK5Solid16NetworkInterface9hwAddressEv@Base 4.97.0
- _ZNK5Solid16NetworkInterface9ifaceNameEv@Base 4.97.0
  _ZNK5Solid19PortableMediaPlayer10metaObjectEv@Base 4.97.0
  _ZNK5Solid19PortableMediaPlayer12driverHandleERK7QString@Base 4.97.0
  _ZNK5Solid19PortableMediaPlayer16supportedDriversE7QString@Base 4.97.0
@@ -427,14 +263,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZNK5Solid5Block11deviceMajorEv@Base 4.97.0
  _ZNK5Solid5Block11deviceMinorEv@Base 4.97.0
  _ZNK5Solid5Block6deviceEv@Base 4.97.0
- _ZNK5Solid5Video10metaObjectEv@Base 4.97.0
- _ZNK5Solid5Video12driverHandleERK7QString@Base 4.97.0
- _ZNK5Solid5Video16supportedDriversE7QString@Base 4.97.0
- _ZNK5Solid5Video18supportedProtocolsEv@Base 4.97.0
- _ZNK5Solid6Button10metaObjectEv@Base 4.97.0
- _ZNK5Solid6Button10stateValueEv@Base 4.97.0
- _ZNK5Solid6Button4typeEv@Base 4.97.0
- _ZNK5Solid6Button8hasStateEv@Base 4.97.0
  _ZNK5Solid6Camera10metaObjectEv@Base 4.97.0
  _ZNK5Solid6Camera12driverHandleERK7QString@Base 4.97.0
  _ZNK5Solid6Camera16supportedDriversE7QString@Base 4.97.0
@@ -462,11 +290,6 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZNK5Solid7Battery7voltageEv@Base 4.97.0
  _ZNK5Solid7Battery8capacityEv@Base 4.97.0
  _ZNK5Solid7Battery9isPluggedEv@Base 4.97.0
- _ZNK5Solid8Keyboard10metaObjectEv@Base 4.97.0
- _ZNK5Solid8Keyboard5modelEv@Base 4.97.0
- _ZNK5Solid8Keyboard6layoutEv@Base 4.97.0
- _ZNK5Solid9AcAdapter10metaObjectEv@Base 4.97.0
- _ZNK5Solid9AcAdapter9isPluggedEv@Base 4.97.0
  _ZNK5Solid9Predicate12firstOperandEv@Base 4.97.0
  _ZNK5Solid9Predicate12propertyNameEv@Base 4.97.0
  _ZNK5Solid9Predicate13interfaceTypeEv@Base 4.97.0
@@ -484,85 +307,46 @@ libKF5Solid.so.5 libkf5solid5 #MINVER#
  _ZNK5Solid9Processor6numberEv@Base 4.97.0
  _ZNK5Solid9Processor8maxSpeedEv@Base 4.97.0
  _ZTI11QSharedData@Base 4.97.0
- _ZTIN5Solid10Networking8NotifierE@Base 4.97.0
  _ZTIN5Solid11OpticalDiscE@Base 4.97.0
- _ZTIN5Solid12DvbInterfaceE@Base 4.97.0
  _ZTIN5Solid12NetworkShareE@Base 4.97.0
  _ZTIN5Solid12OpticalDriveE@Base 4.97.0
  _ZTIN5Solid12StorageDriveE@Base 4.97.0
  _ZTIN5Solid13StorageAccessE@Base 4.97.0
  _ZTIN5Solid13StorageVolumeE@Base 4.97.0
- _ZTIN5Solid14AudioInterfaceE@Base 4.97.0
  _ZTIN5Solid14DeviceNotifierE@Base 4.97.0
- _ZTIN5Solid14PointingDeviceE@Base 4.97.0
  _ZTIN5Solid15DeviceInterfaceE@Base 4.97.0
- _ZTIN5Solid15InternetGatewayE@Base 4.97.0
- _ZTIN5Solid15PowerManagement8NotifierE@Base 4.97.0
- _ZTIN5Solid15SerialInterfaceE@Base 4.97.0
- _ZTIN5Solid15SmartCardReaderE@Base 4.97.0
  _ZTIN5Solid16GenericInterfaceE@Base 4.97.0
- _ZTIN5Solid16NetworkInterfaceE@Base 4.97.0
  _ZTIN5Solid19PortableMediaPlayerE@Base 4.97.0
  _ZTIN5Solid5BlockE@Base 4.97.0
- _ZTIN5Solid5VideoE@Base 4.97.0
- _ZTIN5Solid6ButtonE@Base 4.97.0
  _ZTIN5Solid6CameraE@Base 4.97.0
  _ZTIN5Solid7BatteryE@Base 4.97.0
- _ZTIN5Solid8KeyboardE@Base 4.97.0
- _ZTIN5Solid9AcAdapterE@Base 4.97.0
  _ZTIN5Solid9ProcessorE@Base 4.97.0
  _ZTS11QSharedData@Base 4.97.0
- _ZTSN5Solid10Networking8NotifierE@Base 4.97.0
  _ZTSN5Solid11OpticalDiscE@Base 4.97.0
- _ZTSN5Solid12DvbInterfaceE@Base 4.97.0
  _ZTSN5Solid12NetworkShareE@Base 4.97.0
  _ZTSN5Solid12OpticalDriveE@Base 4.97.0
  _ZTSN5Solid12StorageDriveE@Base 4.97.0
  _ZTSN5Solid13StorageAccessE@Base 4.97.0
  _ZTSN5Solid13StorageVolumeE@Base 4.97.0
- _ZTSN5Solid14AudioInterfaceE@Base 4.97.0
  _ZTSN5Solid14DeviceNotifierE@Base 4.97.0
- _ZTSN5Solid14PointingDeviceE@Base 4.97.0
  _ZTSN5Solid15DeviceInterfaceE@Base 4.97.0
- _ZTSN5Solid15InternetGatewayE@Base 4.97.0
- _ZTSN5Solid15PowerManagement8NotifierE@Base 4.97.0
- _ZTSN5Solid15SerialInterfaceE@Base 4.97.0
- _ZTSN5Solid15SmartCardReaderE@Base 4.97.0
  _ZTSN5Solid16GenericInterfaceE@Base 4.97.0
- _ZTSN5Solid16NetworkInterfaceE@Base 4.97.0
  _ZTSN5Solid19PortableMediaPlayerE@Base 4.97.0
  _ZTSN5Solid5BlockE@Base 4.97.0
- _ZTSN5Solid5VideoE@Base 4.97.0
- _ZTSN5Solid6ButtonE@Base 4.97.0
  _ZTSN5Solid6CameraE@Base 4.97.0
  _ZTSN5Solid7BatteryE@Base 4.97.0
- _ZTSN5Solid8KeyboardE@Base 4.97.0
- _ZTSN5Solid9AcAdapterE@Base 4.97.0
  _ZTSN5Solid9ProcessorE@Base 4.97.0
- _ZTVN5Solid10Networking8NotifierE@Base 4.97.0
  _ZTVN5Solid11OpticalDiscE@Base 4.97.0
- _ZTVN5Solid12DvbInterfaceE@Base 4.97.0
  _ZTVN5Solid12NetworkShareE@Base 4.97.0
  _ZTVN5Solid12OpticalDriveE@Base 4.97.0
  _ZTVN5Solid12StorageDriveE@Base 4.97.0
  _ZTVN5Solid13StorageAccessE@Base 4.97.0
  _ZTVN5Solid13StorageVolumeE@Base 4.97.0
- _ZTVN5Solid14AudioInterfaceE@Base 4.97.0
  _ZTVN5Solid14DeviceNotifierE@Base 4.97.0
- _ZTVN5Solid14PointingDeviceE@Base 4.97.0
  _ZTVN5Solid15DeviceInterfaceE@Base 4.97.0
- _ZTVN5Solid15InternetGatewayE@Base 4.97.0
- _ZTVN5Solid15PowerManagement8NotifierE@Base 4.97.0
- _ZTVN5Solid15SerialInterfaceE@Base 4.97.0
- _ZTVN5Solid15SmartCardReaderE@Base 4.97.0
  _ZTVN5Solid16GenericInterfaceE@Base 4.97.0
- _ZTVN5Solid16NetworkInterfaceE@Base 4.97.0
  _ZTVN5Solid19PortableMediaPlayerE@Base 4.97.0
  _ZTVN5Solid5BlockE@Base 4.97.0
- _ZTVN5Solid5VideoE@Base 4.97.0
- _ZTVN5Solid6ButtonE@Base 4.97.0
  _ZTVN5Solid6CameraE@Base 4.97.0
  _ZTVN5Solid7BatteryE@Base 4.97.0
- _ZTVN5Solid8KeyboardE@Base 4.97.0
- _ZTVN5Solid9AcAdapterE@Base 4.97.0
  _ZTVN5Solid9ProcessorE@Base 4.97.0
