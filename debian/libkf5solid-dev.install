@@ -1,4 +1,4 @@
 usr/include/KF5/*
-usr/lib/*/libKF5Solid.so
 usr/lib/*/cmake/KF5Solid/
+usr/lib/*/libKF5Solid.so
 usr/share/qt5/mkspecs/modules/qt_Solid.pri
