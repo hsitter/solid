@@ -49,8 +49,7 @@ Description: Qt library to query and control hardware
 Package: libkf5solid5-data
 Architecture: all
 Multi-Arch: foreign
-Pre-Depends: ${misc:Pre-Depends}
-Depends: ${misc:Depends}, ${shlibs:Depends}
+Depends: ${misc:Depends}
 Suggests: media-player-info [linux-any]
 Recommends: solid-bin (= ${binary:Version})
 Description: Qt library to query and control hardware
