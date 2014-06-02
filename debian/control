@@ -22,7 +22,8 @@ Homepage: https://projects.kde.org/projects/frameworks/solid
 Package: libkf5solid-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5solid5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5solid5 (= ${binary:Version}), ${misc:Depends},
+ qtbase5-dev
 Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
