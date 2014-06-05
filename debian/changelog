@@ -23,6 +23,9 @@ solid (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
     anyway.
     + Breaks+Replaces old package
 
+  [ Scarlett Clark ]
+  * Remove recommends, suggests from -data package to fix build. 
+
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:46:31 +0100
 
 solid (4.99.0-0ubuntu1) trusty; urgency=medium
