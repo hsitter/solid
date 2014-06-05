@@ -10,6 +10,18 @@ solid (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
   [ Harald Sitter ]
   * Remove useless Pre-Depends fields used for multiarch compat in
     releases older than trusty
+  * Rename solid-bin to libkf5solid-bin to conform to naming of similar
+    framework packages
+    + Breaks+Replaces old package
+  * Reorder control fields a bit
+  * Move qmldir file from libkf5solid5 to declarative package
+    + No move relationship introduced because of the experimental nature of
+      the packages.
+  * Rename qtdeclarative5-kf5solid-5.0 to qtdeclarative5-kf5solid
+    as versions mean next to nothing in qml and unless a future incompatible
+    version introduces a version in the file path they won't be co-installable
+    anyway.
+    + Breaks+Replaces old package
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:46:31 +0100
 
