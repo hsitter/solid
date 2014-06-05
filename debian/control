@@ -34,7 +34,6 @@ Description: Qt library to query and control hardware
 Package: libkf5solid5
 Architecture: any
 Multi-Arch: same
-Pre-Depends: ${misc:Pre-Depends}
 Depends: libkf5solid5-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
@@ -62,7 +61,6 @@ Description: Qt library to query and control hardware
 
 Package: solid-bin
 Architecture: any
-Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
@@ -75,7 +73,6 @@ Description: Qt library to query and control hardware
 Package: qtdeclarative5-kf5solid-5.0
 Architecture: any
 Multi-Arch: same
-Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt library to query and control hardware plugin
  Solid is a device integration framework. It provides a way of querying and
