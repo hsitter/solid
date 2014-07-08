@@ -18,6 +18,8 @@ Build-Depends: bison,
                qttools5-dev-tools
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/solid
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/solid
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/solid
 
 Package: libkf5solid-dev
 Section: libdevel
