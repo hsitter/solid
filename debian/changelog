@@ -1,6 +1,7 @@
 solid (5.0.0-0ubuntu2) UNRELEASED; urgency=medium
 
-  * Update copyright to match licensing to source 
+  * Update copyright to match licensing to source
+  * Rename qml package to qml-module naming scheme
 
  -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 16 Jul 2014 09:13:48 -0700
 

@@ -72,9 +72,20 @@ Description: Qt library to query and control hardware
  This package contains the solid-hardware5 tool.
 
 Package: qtdeclarative5-kf5solid
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}, qml-module-org-kde-solid
+Description: transitional package to renamed qml-module-org-kde-solid
+ Transitional package for qml-module-org-kde-solid.  This package is
+ safe to remove.
+ .
+ This package is part of KDE Frameworks 5.
+
+Package: qml-module-org-kde-solid
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Replaces: qtdeclarative5-kf5solid (<< 5.0.0-0ubuntu2)
+Breaks: qtdeclarative5-kf5solid (<< 5.0.0-0ubuntu2)
 Description: Qt library to query and control hardware plugin
  Solid is a device integration framework. It provides a way of querying and
  interacting with hardware independently of the underlying operating system.
