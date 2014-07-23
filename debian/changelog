@@ -1,9 +1,14 @@
-solid (5.0.0-0ubuntu3) UNRELEASED; urgency=medium
+solid (5.0.0-0ubuntu3) utopic; urgency=medium
 
+  [ Jonathan Riddell ]
+  * Make symbols file have an implicit dependency on
+    qml-module-org-kde-solid
+
+  [ José Manuel Santamaría Lema ]
   * Update libraries *.install paths so a soname bump doesn't go
     unnoticed.
 
- -- José Manuel Santamaría Lema <panfaust@gmail.com>  Mon, 21 Jul 2014 00:42:47 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 23 Jul 2014 17:42:42 +0200
 
 solid (5.0.0-0ubuntu2) utopic; urgency=medium
 
