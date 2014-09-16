@@ -13,8 +13,8 @@ Copyright: 2007 Will Stephenson <wstephenson@kde.org>,
            2010 Paulo Romulo Alves Barros <paulo.romulo@kdemail.net>,
            2009 Benjamin K. Stuhl <bks24@cornell.edu>,
            2010 Alex Fiestas <alex@eyeos.org>
-           2014 Jonathan Riddell <jriddell@ubuntu.com>
-License: LGPL-2.1+ approved by KDE e.v.
+           2014 Jonathan Riddell <jriddell@ubuntu.com> 
+License: LGPL-2.1+
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Lesser General Public
  License as published by the Free Software Foundation; either
@@ -33,3 +33,4 @@ License: LGPL-2.1+ approved by KDE e.v.
  .
  On Debian systems, the complete text of the GNU Lesser General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2.1".
+Comment: or any later version accepted by the membership of KDE e.V.
