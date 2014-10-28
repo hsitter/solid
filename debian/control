@@ -38,7 +38,6 @@ Multi-Arch: same
 Depends: libkf5solid5-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: libkf5solid-bin (= ${binary:Version})
 Suggests: media-player-info [linux-any]
 Description: Qt library to query and control hardware
  Solid is a device integration framework. It provides a way of querying and
